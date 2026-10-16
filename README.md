@@ -25,12 +25,12 @@ Projet conçu en équipe avec : Abir Amoucha
 
 ## Le plan de développement
 
-- Technologies et hébergement : ...
-- Équipe : ...
-- Échéancier : ...
-- Budget : ... $
-- Mesures du succès : ...
+- Technologies et hébergement : HTML, CSS. Le site sera hébergé sur Github. Connexion avec le compte du collège. Raison: C'est lié à l'école !!!!!!!!
+- Équipe : Gestion de projet, design UX et UI, développement, tests
+- Échéancier : Sprint 1: catalogue du matériel des cours - Sprint 2: système de réservation
+- Budget : environ 30 000 $  !!!!!!!!!!!!
+- Mesures du succès : Il y aura moins de réservations en retard et les utilisateurs seront satisfaits de la simplicité et de la rapidité pour réserver.
 
 ## La demande
 
-Nous demandons ... $ pour ...
+Nous demandons 30 000 $ pour créer un site de réservation simple, rapide et efficace, sans devoir calculer le 48h d'avance, et ce pour les étudiants et le personnel.
