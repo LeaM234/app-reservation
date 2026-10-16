@@ -20,8 +20,8 @@ Projet conçu en équipe avec : Abir Amoucha
 
 ![Écran principal](ecran-principal.jpg)
 
-- Direction artistique : couleurs #......, #......, #...... et police ...
-- Sur téléphone et sur ordinateur : ...
+- Direction artistique : couleurs #000000, #FFFFFF, #FF003A et police Helvetica
+- Sur téléphone et sur ordinateur : Sur téléphone, les éléments apparaissent un sous l'autre.
 
 ## Le plan de développement
 
