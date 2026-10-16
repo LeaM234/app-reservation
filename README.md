@@ -6,9 +6,9 @@ Projet conçu en équipe avec : Abir Amoucha
 ## Le problème
 
 - Problème : Les étudiants prennent trop de temps pour trouver le fichier, le télécharger, le renommer, le remplir, calculer le 48h d'avance, copier le lien et finalement l'envoyer.
-                - excel non responsive
-                - excel pas dispo partout
-                - oublier # DA
+   - excel non responsive
+   - excel pas dispo partout
+   - oublier # DA
                 - trop d'étapes
                 - calculer 48h
                 - pas images matériel
