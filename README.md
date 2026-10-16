@@ -25,7 +25,7 @@ Projet conçu en équipe avec : Abir Amoucha
 
 ## Le plan de développement
 
-- Technologies et hébergement : HTML, CSS. Le site sera hébergé sur Github. Connexion avec le compte du collège. Raison: C'est lié à l'école !!!!!!!!
+- Technologies et hébergement : HTML, CSS. Le site sera hébergé sur Github, car c'est gratuit. Connexion avec le compte du collège, car c'est lié à l'école.
 - Équipe : Gestion de projet, design UX et UI, développement, tests
 - Échéancier : Sprint 1: catalogue du matériel des cours - Sprint 2: système de réservation
 - Budget : environ 30 000 $  !!!!!!!!!!!!
