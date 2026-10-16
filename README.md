@@ -5,7 +5,15 @@ Projet conçu en équipe avec : Abir Amoucha
 
 ## Le problème
 
-- Problème : Les étudiants prennent trop de temps pour trouver le fichier, le télécharger, le renommer, le remplir, calculer le 48h d'avance, copier le lien et finalement l'envoyer. 
+- Problème : Les étudiants prennent trop de temps pour trouver le fichier, le télécharger, le renommer, le remplir, calculer le 48h d'avance, copier le lien et finalement l'envoyer.
+                - excel non responsive
+                - excel pas dispo partout
+                - oublier # DA
+                - trop d'étapes
+                - calculer 48h
+                - pas images matériel
+                - pas inventaires
+                - pas de suivi
 - Persona : Les étudiants et le personnel veulent emprunter du matériel rapidement et devoir calculer le 48h les frustre.
 
 ## La solution
@@ -13,6 +21,20 @@ Projet conçu en équipe avec : Abir Amoucha
 - Proposition de valeur : C'est rapide, simple et inutile de calculer le 48h d'avance ou de s'en souvenir.
 - Fonctionnalités du MVP :
     - En tant qu'élève, je veux réserver du matériel rapidement et facilement afin de ne pas perdre de temps inutilement et de ne rien oublier.
+- Solution
+            - réservation dans le site directement
+            - profil étudiant
+            - checklist à nombre
+            - auto login
+            - calendrier automatisé
+            - ajout d'images
+            - inventaire (nb restant)
+            - suivi avec rappel (24h, 1h-30min avant)
+- MVP
+            - calendrier automatisé
+
+- Nive to have
+            - Accès inventaire
 
 ## L'expérience
 
